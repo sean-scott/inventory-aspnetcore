@@ -1,2 +1,2 @@
-# inventory-aspnetcore
-Inventory with ASP.NET Core 2, EF Core, and more cores.
+# About
+Inventory on ASP.NET Core 3, with Blazor!
