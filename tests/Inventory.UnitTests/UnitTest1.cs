@@ -8,7 +8,8 @@ namespace Inventory.UnitTests
         [Fact]
         public void Test1()
         {
-
+            // lol
+            Assert.True(true);
         }
     }
 }
